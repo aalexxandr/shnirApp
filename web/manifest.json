@@ -1,6 +1,6 @@
 {
-    "name": "shnir_app",
-    "short_name": "shnir_app",
+    "name": "shnir",
+    "short_name": "shnir",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

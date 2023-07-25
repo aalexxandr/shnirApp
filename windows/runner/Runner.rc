@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "shnir_app" "\0"
+            VALUE "CompanyName", "com.shniri" "\0"
+            VALUE "FileDescription", "shnir" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "shnir_app" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "shnir_app.exe" "\0"
-            VALUE "ProductName", "shnir_app" "\0"
+            VALUE "InternalName", "shnir" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.shniri. All rights reserved." "\0"
+            VALUE "OriginalFilename", "shnir.exe" "\0"
+            VALUE "ProductName", "shnir" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
